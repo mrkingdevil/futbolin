@@ -14,8 +14,8 @@
 #define PIN_TRIGGER2         15
 #define PIN_ECHO2            13
 #define PIN_PULSADOR         16
-#define SSID                 "CLANCASA"
-#define PASS                 "3s1OE5uN4pRu3b4--2"
+#define SSID                 "nombrewifi"
+#define PASS                 "passwifi"
 #define TIEMPO_RESET_ADDR    0
 #define DISTANCIA_ADDR       4
 #define INTENSIDAD_ADDR      8  // Dirección en EEPROM para almacenar intensidadLEDs
